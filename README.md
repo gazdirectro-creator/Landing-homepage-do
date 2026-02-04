@@ -5,7 +5,7 @@ technical demonstration of a responsive landing page.
 #Tech Stack
 - Framework: Next.js 14 (App Router)
 - Styling: Tailwind CSS
-- Icons: Phosphor Icons
+- Icons: Phos Icons
 
 #Key Features
 - Mobile-First Design: Fully responsive layout for all screen sizes.
